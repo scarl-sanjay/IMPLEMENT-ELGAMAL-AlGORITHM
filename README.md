@@ -14,7 +14,7 @@ Input message to encrypt
 ### STEP-4: 
 Input random ephemeral key
 ### STEP-5: 
-ElGamal EncrypƟon and ElGamal DecrypƟon is done.
+ElGamal Encryption and ElGamal Decryption is done.
 
 ## PROGRAM:
 ```c
