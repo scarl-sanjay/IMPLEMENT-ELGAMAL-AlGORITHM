@@ -45,7 +45,7 @@ int p, g, x;
 int h, y;
 int message, k; 
 int c1, c2, decrypted_message; 
-printf("\n\n *******Elgamal encryption and decryption*******\n\n GOKUL J 212222230038\n\n");
+printf("\n\n *******Elgamal encryption and decryption*******\n\n SANJAY S 212223040184\n\n");
 printf("Enter a large prime number (p): ");
 scanf("%d", &p);
 printf("Enter a primiƟve root of p (g): ");
@@ -76,7 +76,7 @@ return 0;
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/430c0226-a0c5-4c41-8fa4-dd6915b4a171)
+![image](https://github.com/user-attachments/assets/cf21eabe-896b-496e-9dae-6baa5b1d5938)
 
 ## Result:
 Thus the Elgamal algorithm had been implemented successfully.
